@@ -28,43 +28,43 @@ Interests:
 
 
 sections:
-  <!-- - block: about.biography
-    id: about
-    content:
-      title: About me
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-    design:
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '1'
-      view: compact
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
-  - block: collection
-    content:
-      title: Publication List
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0'] -->
+  # - block: about.biography
+  #   id: about
+  #   content:
+  #     title: About me
+  #     # Choose a user profile to display (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     spacing:
+  #       # Customize the section spacing. Order is top, right, bottom, left.
+  #       padding: ['20px', '0', '20px', '0']
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '1'
+  #     view: compact
+  #     spacing:
+  #       # Customize the section spacing. Order is top, right, bottom, left.
+  #       padding: ['20px', '0', '20px', '0']
+  # - block: collection
+  #   content:
+  #     title: Publication List
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  #     spacing:
+  #       # Customize the section spacing. Order is top, right, bottom, left.
+  #       padding: ['20px', '0', '20px', '0']
   - block: experience
     id: timeline
     content:
@@ -129,22 +129,22 @@ sections:
 #    design:
 #      columns: '2'
 #      view: card
-  <!-- - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: ''
-      # Contact (add or remove contact options as necessary)
-      email: a.garciacastellanos@uva.nl
-      # Automatically link email and phone or display as text?
-      autolink: true
-    design:
-      columns: '2'
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
---- -->
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle:
+  #     text: ''
+  #     # Contact (add or remove contact options as necessary)
+  #     email: a.garciacastellanos@uva.nl
+  #     # Automatically link email and phone or display as text?
+  #     autolink: true
+  #   design:
+  #     columns: '2'
+  #     spacing:
+  #       # Customize the section spacing. Order is top, right, bottom, left.
+  #       padding: ['20px', '0', '20px', '0']
+--- 
 
 
 
