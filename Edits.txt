@@ -1,0 +1,18 @@
+I'm a Clinical Data Scientist, at the [Biomarker Engineering and Analytics](https://chdr.nl/clinical-studies-development/trial-services/biomarker-engineering-and-analytics) group, [Centre for Human Drug Research](https://chdr.nl/).
+
+My tasks include : 
+* Analyse biomarker endpoints from clinical trials 
+* Devloping novel ML/DL based biomarkers
+* Validation of novel methods and biomarkers to assess their usefulness
+
+I work with variety of data :
+* Electrocardiogram 
+* Electroencephalogram
+* Speech and Audio
+* Text
+
+
+Interests:
+* Novel methods and tasks for quantification of cognitive function
+* Causal Machine Learning for Treatment Effect estimations
+* 
