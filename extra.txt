@@ -37,3 +37,18 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+Experience
+======
+|:------------- | :------------- |
+| Jan 2024 - Present  | <pre> Clinical Data Scientist <br>
+                      &emsp; CHDR </pre> |
+| Jan 2023 - Dec 2023 | <pre> Algorithm Developer <br>
+                      &emsp; perClass </pre> | 
+| Jan 2022 - Oct 2023 | <pre> Computer Vision Engineer <br>
+                      &emsp; Team Tumbleweed </pre> |
+| Jan 2021 - Mar 2022 | <pre> Deep Learning Researcher <br>
+                      &emsp; Centrum Wiskunde en Informatica </pre> |
+| Sep 2016 - Sep 2019 | <pre> Data Scientist <br>
+                      &emsp; Siemens Ltd. </pre>|  

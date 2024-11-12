@@ -17,20 +17,5 @@ In addition, I work in creating novel non-invasive biomarkers and their subseque
 
 Education
 ======             
-| --------------------------------------  | ------------------------------------------------------------------ |
-| MSc. Electrical Engineering, 2022       | [TU Delft](https://www.tudelft.nl/)                                |
-| B. Tech. Electrical Engineering, 2016   | [National Institute of Technology, Surat](https://www.svnit.ac.in/)| 
-
-Experience
-======
-|:------------- | :------------- |
-| Jan 2024 - Present  | <pre> Clinical Data Scientist <br>
-                      &emsp; CHDR </pre> |
-| Jan 2023 - Dec 2023 | <pre> Algorithm Developer <br>
-                      &emsp; perClass </pre> | 
-| Jan 2022 - Oct 2023 | <pre> Computer Vision Engineer <br>
-                      &emsp; Team Tumbleweed </pre> |
-| Jan 2021 - Mar 2022 | <pre> Deep Learning Researcher <br>
-                      &emsp; Centrum Wiskunde en Informatica </pre> |
-| Sep 2016 - Sep 2019 | <pre> Data Scientist <br>
-                      &emsp; Siemens Ltd. </pre>|  
+*  MSc. Electrical Engineering, [TU Delft](https://www.tudelft.nl/), 2022
+*  B. Tech. Electrical Engineering, [National Institute of Technology, Surat](https://www.svnit.ac.in/), 2016
