@@ -16,22 +16,34 @@ In my role, I apply signal processing, computer vision, machine learning, and de
 In addition, I work in creating novel non-invasive biomarkers and their subsequent clinical validation the biomarkers and methods to state-of-the-art gold standards.
 
 Education
-======
-:------------- | :-------------
-MSc. Electrical Engineering, 2022  | [TU Delft](https://www.tudelft.nl/) 
-B. Tech. Electrical Engineering, 2016 | [National Institute of Technology, Surat](https://www.svnit.ac.in/)
+======             
+| --------------------------------------  | ------------------------------------------------------------------ |
+| MSc. Electrical Engineering, 2022       | [TU Delft](https://www.tudelft.nl/)                                |
+| B. Tech. Electrical Engineering, 2016   | [National Institute of Technology, Surat](https://www.svnit.ac.in/)| 
 
+### Table 2
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | ce
+ll5   | cell6   |
+|-----------------------------|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=============================|
+| Foot1   | Foot2   | Foot3   |
 
 Experience
 ======
-:------------- | :-------------
-Jan 2024 - Present | <pre> Clinical Data Scientist <br>
-                      &emsp; CHDR </pre> 
-Jan 2023 - Dec 2023 | <pre> Algorithm Developer <br>
-                      &emsp; perClass </pre> 
-Jan 2022 - Oct 2023 | <pre> Computer Vision Engineer <br>
-                      &emsp; Team Tumbleweed </pre>
-Jan 2021 - Mar 2022 | <pre> Deep Learning Researcher <br>
-                      &emsp; Centrum Wiskunde en Informatica </pre>
-Sep 2016 - Sep 2019 | <pre> Data Scientist <br>
-                      &emsp; Siemens Ltd. </pre>                      
+|:------------- | :------------- |
+| Jan 2024 - Present  | <pre> Clinical Data Scientist <br>
+                      &emsp; CHDR </pre> |
+| Jan 2023 - Dec 2023 | <pre> Algorithm Developer <br>
+                      &emsp; perClass </pre> | 
+| Jan 2022 - Oct 2023 | <pre> Computer Vision Engineer <br>
+                      &emsp; Team Tumbleweed </pre> |
+| Jan 2021 - Mar 2022 | <pre> Deep Learning Researcher <br>
+                      &emsp; Centrum Wiskunde en Informatica </pre> |
+| Sep 2016 - Sep 2019 | <pre> Data Scientist <br>
+                      &emsp; Siemens Ltd. </pre>|  
