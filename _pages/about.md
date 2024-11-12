@@ -21,19 +21,6 @@ Education
 | MSc. Electrical Engineering, 2022       | [TU Delft](https://www.tudelft.nl/)                                |
 | B. Tech. Electrical Engineering, 2016   | [National Institute of Technology, Surat](https://www.svnit.ac.in/)| 
 
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | ce
-ll5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
 Experience
 ======
 |:------------- | :------------- |
